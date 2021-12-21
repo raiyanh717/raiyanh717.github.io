@@ -17,8 +17,9 @@ workflows:
   - item: Git
   - item: VS Code
   - item: VS 2019
-  - item: Angular
   - item: Oracle
+  - item: phpMyAdmin
+  - item: Angular
   - item: Github
   - item: Slack
   - item: Discord
