@@ -1,29 +1,25 @@
 languages:
   - item: Python
-  - item: Java (JavaFx)
-  - item: JavaScript
+  - item: Java
   - item: HTML
-  - item: SCSS/CSS
+  - item: CSS
   - item: SQL
 
 technologies:
   - item: MS Office
   - item: G Suite
   - item: Wireshark
-  - item: Fiddler
   - item: MobaXterm
 
 workflows:
-  - item: Git
-  - item: VS Code
-  - item: VS 2019
+  - item: Git & GitHub
+  - item: VS Code & VS 2019
   - item: Oracle
-  - item: phpMyAdmin
   - item: Angular
-  - item: Github
   - item: Slack
   - item: Discord
 
 OS:
   - item: Windows
   - item: macOS
+  - item: Linux (Ubuntu 20.04)
